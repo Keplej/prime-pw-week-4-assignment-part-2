@@ -5,16 +5,18 @@ header {
 .info {
   background-color: #6495ED;
   color: white;
+  text-align: center;
 }
 
 h3 {
   background-color: #6495ED;
   color: white;
+  text-align: center;
 }
 
-img.center {
-  width: 600px;
-  height: auto;
+img {
+  margin-left: auto;
+  margin-right: auto;
   display: block;
-  margin: 0 auto;
+  border: 5px solid #999;
 }
