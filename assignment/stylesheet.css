@@ -6,3 +6,15 @@ header {
   background-color: #6495ED;
   color: white;
 }
+
+h3 {
+  background-color: #6495ED;
+  color: white;
+}
+
+img.center {
+  width: 600px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
